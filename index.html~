@@ -10,9 +10,7 @@
 
 <body>
 
-<div>
-        <img src="profile.jpg" width="50%" height="50%"/>
-        </div>
+<img src="image.jpg" style="width: 25%; height: 50%"/>​
 
 
 
