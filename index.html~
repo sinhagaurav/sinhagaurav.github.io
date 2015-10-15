@@ -1,1 +1,187 @@
-Hello World
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Ankit Singh Rawat</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Ankit Singh Rawat</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="courses.html">Courses</a></div>
+<div class="menu-item"><a href="links.html">Links</a></div>
+<div class="menu-category">Downloads</div>
+<div class="menu-item"><a href="cv.pdf">Curriculum&nbsp;Vitae</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Ankit Singh Rawat</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="ankit.jpg" alt="" />&nbsp;</td>
+<td align="left"><p>Postdoctoral Researcher <br />
+<a href="http://www.cs.cmu.edu">Computer Science Department</a> <br />
+<a href="http://www.cmu.edu">Carnegie Mellon University</a> <br />
+<br />
+Host: <a href="http://www.cs.cmu.edu/~venkatg/">Prof. Venkat Guruswami</a></p>
+</td></tr></table>
+<h2>Education</h2>
+<ul>
+<li><p>Ph.D., Electrical and Computer Engineering, <a href="http://www.utexas.edu">The University of Texas at Austin</a>, 2010 - 2015</p>
+<ul>
+<li><p>Advisor: <a href="http://www.ece.utexas.edu/~sriram/doku.php">Prof. Sriram Vishwanath</a></p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p>M.S., Electrical and Computer Engineering, <a href="http://www.utexas.edu">The University of Texas at Austin</a>, 2010 - 2012</p>
+</li>
+</ul>
+<ul>
+<li><p>B.Tech., Electrical Engineering, <a href="http://www.iitk.ac.in">Indian Institute of Technology, Kanpur</a>, 2006 - 2010</p>
+<ul>
+<li><p>Advisors: <a href="http://www.iitk.ac.in/ee/faculty/akc/AKC/akc.html">Prof. Ajit Kumar Chaturvedi</a> and <a href="http://home.iitk.ac.in/~adityaj/">Prof. Aditya K. Jagannatham</a> </p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h2>Research Interests</h2>
+<ul>
+<li><p>Coding for Distributed Storage Systems</p>
+</li>
+<li><p>Statistical Machine Learning</p>
+</li>
+<li><p>Information Theory</p>
+</li>
+<li><p>Performance Analysis of Coded Storage Systems</p>
+</li>
+<li><p>Coding for Fault Tolerant Computation</p>
+</li>
+</ul>
+<h2>Publications</h2>
+<h3>Journal Papers</h3>
+<h4>Published/Accepted</h4>
+<ul>
+<li><p>Ankit Singh Rawat, Arya Mazumdar and Sriram Vishwanath, “Cooperative Local Repair in Distributed Storage,” accepted, EURASIP Journal on Advances in Signal Processing (Special Issue on Network Coding), 2015. (<a href="http://arxiv.org/abs/1409.3900">http://arxiv.org/abs/1409.3900</a>)</p>
+</li>
+<li><p>Natalia Silberstein, Ankit Singh Rawat and Sriram Vishwanath, “Error-Correcting Regenerating and Locally Repairable Codes via Rank-Metric Codes,” accepted, IEEE Transactions on Information Theory, 2015. (<a href="http://arxiv.org/abs/1312.3194">http://arxiv.org/abs/1312.3194</a>)</p>
+</li>
+<li><p>O. Ozan Koyluoglu, Ankit Singh Rawat and Sriram Vishwanath, “Secure Cooperative Regenerating Codes for Distributed Storage Systems,” IEEE Transactions on Information Theory, September 2014. (<a href="http://arxiv.org/abs/1210.3664">http://arxiv.org/abs/1210.3664</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat, O. Ozan Koyluoglu, Natalia Silberstein and Sriram Vishwanath, “Optimal Locally Repairable and Secure Codes for Distributed Storage Systems,” IEEE Transactions on Information Theory, January 2014. (<a href="http://arxiv.org/abs/1210.6954">http://arxiv.org/abs/1210.6954</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat, Priyank Anand, Hao Chen and Pramod K. Varshney, “Collaborative Spectrum Sensing in the Presence of Byzantine Attacks in Cognitive Radio Networks,” IEEE Transactions on Signal Processing, February 2011. (<a href="papers/CRN_TSP.pdf">PDF</a>)</p>
+</li>
+</ul>
+<h4>Submitted</h4>
+<ul>
+<li><p>Ankit Singh Rawat, Zhao Song, Alexandros G. Dimakis and Anna Gal, “Batch Codes through Dense Graphs with High Girth,” submitted, 2015. (<a href="http://arxiv.org/abs/1410.2920">http://arxiv.org/abs/1410.2920</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat, Dimitris S. Papailiopoulos, Alexandros G. Dimakis and Sriram Vishwanath, “Locality and Availability in Distributed Storage,” submitted, 2015. (<a href="http://arxiv.org/abs/1402.2011">http://arxiv.org/abs/1402.2011</a>)</p>
+</li>
+</ul>
+<h3>Refereed Conference Papers</h3>
+<ul>
+<li><p>Arya Mazumdar and Ankit Singh Rawat, “Associative Memory via a Sparse Recovery Model,” to appear in Neural Information Processing Systems (NIPS), 2015.</p>
+</li>
+<li><p>Ankit Singh Rawat, Zhao Song, Alexandros G. Dimakis and Anna Gal, “Batch Codes through Dense Graphs with High Girth,” In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2015.</p>
+</li>
+<li><p>Arya Mazumdar and Ankit Singh Rawat, &ldquo;On Adversarial Joint Source Channel Coding,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2015.</p>
+</li>
+<li><p>Casen Hunger, Mikhail Kazdagli, Ankit Singh Rawat, Alexandros G. Dimakis, Sriram Vishwanath and Mohit Tiwari, “Understanding Microarchitectural Channels and Using Them for Defense,” In Proceedings of IEEE International Symposium on High Performance Computer Architecture (HPCA), 2015.</p>
+</li>
+<li><p>Ankit Singh Rawat and Emina Soljanin, &ldquo;Dynamic Control of Video Quality in AVS,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2014.</p>
+</li>
+<li><p>Ankit Singh Rawat, Dimitris S. Papailiopoulos, Alexandros G. Dimakis and Sriram Vishwanath, &ldquo;Locality and Availability in Distributed Storage,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2014.</p>
+</li>
+<li><p>Avhishek Chatterjee, Ankit Singh Rawat, Sriram Vishwanath and Sujay Sanghavi, “Learning the Causal Graph of Markov Time Series,” 51st Annual Allerton Conference on Communication, Control, and Computing, 2013.</p>
+</li>
+<li><p>Ankit Singh Rawat, O. Ozan Koyluoglu, Natalia Silberstein and Sriram Vishwanath, &ldquo;Secure Locally Repairable Codes for Distributed Storage Systems,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2013.</p>
+</li>
+<li><p>Natalia Silberstein, Ankit Singh Rawat, O. Ozan Koyluoglu and Sriram Vishwanath, &ldquo;Optimal Locally Repairable Codes via Rank-Metric Codes,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2013.</p>
+</li>
+<li><p>O. Ozan Koyluoglu, Ankit Singh Rawat and Sriram Vishwanath, &ldquo;The Secrecy Capacity of Minimum Bandwidth Cooperative Regenerating Codes,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2013.</p>
+</li>
+<li><p>Govinda Kamath, Natalia Silberstein, N. Prakash, Ankit Singh Rawat, V. Lalitha, O. Ozan Koyluoglu, P. Vijay Kumar and Sriram Vishwanath, &ldquo;Explicit MBR All-Symbol Locality Codes,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2013.</p>
+</li>
+<li><p>Ankit Singh Rawat, Ozgun Y. Bursalioglu and Haralabos C. Papadopoulos, &ldquo;Scheduling Algorithms for MU-MIMO with Partial Current CSIT and Full Delayed CSIT&rdquo;, IEEE Vehicular Technology Conference (VTC), 2013.</p>
+</li>
+<li><p>Natalia Silberstein, Ankit Singh Rawat and Sriram Vishwanath, &ldquo;Adversarial Error Resilience in Distributed Storage Using MRD Codes and MDS Array Codes,&rdquo; 50th Annual Allerton Conference on Communication, Control, and Computing, 2012. (<a href="http://arxiv.org/abs/1202.0800v2">http://arxiv.org/abs/1202.0800v2</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat and Sriram Vishwanath, On Locality in Distributed Storage Systems," IEEE Information Theory Workshop (ITW), 2012. (<a href="papers/ITW_2012.pdf">PDF</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat, Sriram Vishwanath, Abhishek Bhowmick and Emina Soljanin, &ldquo;Update Efficient Codes for Distributed Storage,&rdquo; In Proceedings of IEEE International Symposium on Information Theory (ISIT), 2011. (<a href="papers/ISIT_update_efficient.pdf">PDF</a>)</p>
+</li>
+<li><p>Ankit Singh Rawat, Priyank Anand, Hao Chen and Pramod K. Varshney, &ldquo;Countering Byzantine Attacks in Cognitive Radio Networks,&rdquo; In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2010.
+(<a href="papers/Paper_ICASSP.pdf">PDF</a>)</p>
+</li>
+<li><p>Priyank Anand, Ankit Singh Rawat, Hao Chen and Pramod K. Varshney, &ldquo;Collaborative Spectrum Sensing in the Presence of Byzantine Attacks in Cognitive Radio Networks,&rdquo; In Proceedings of the 2nd International Conference on COMmunication Systems and NETworkS (COMSNETS), January, 2010. (<a href="papers/Paper_COMSNETS.pdf">PDF</a>) <br /></p>
+</li>
+</ul>
+<h3>Invited Conference Papers</h3>
+<ul>
+<li><p>Ankit Singh Rawat, Natalia Silberstein, O. Ozan Koyluoglu and Sriram Vishwanath, &lsquo;&lsquo;Secure Distributed Storage Systems: Local Repair with Minimum Bandwidth Regeneration," In Proceedings of International Symposium on Communications, Control, and Signal Processing (ISCCSP), 2014.</p>
+</li>
+<li><p>Ankit Singh Rawat, Dimitris S. Papailiopoulos, Alexandros G. Dimakis, and Sriram Vishwanath, &lsquo;&lsquo;On Codes with Availability in Distributed Storage," In Proceedings of International Symposium on Communications, Control, and Signal Processing (ISCCSP), 2014.</p>
+</li>
+<li><p>Ankit Singh Rawat, Arya Mazumdar, and Sriram Vishwanath, &lsquo;&lsquo;On Cooperative Local Repair in Distributed Storage," In Proceedings of 48th Annual Conference on Information Sciences and Systems (CISS), 2014.</p>
+</li>
+<li><p>Ankit Singh Rawat, Dimitris S. Papailiopoulos, Alexandros G. Dimakis, and Sriram Vishwanath, “Locality and Availability in Distributed Storage,” 51st Annual Allerton Conference on Communication, Control, and Computing, 2013.</p>
+</li>
+<li><p>Ankit Singh Rawat, Natalia Silberstein, O. Ozan Koyluoglu and Sriram Vishwanath, &ldquo;Optimal Locally Repaiarable Codes with Local Minimum Storage Regeneration via Rank-metric Codes,&rdquo; In Proceedings of Information Theory and Applications Workshop (ITA), 2013.</p>
+</li>
+</ul>
+<h2>Talks</h2>
+<ul>
+<li><p>“Batch Codes through Dense Graphs without Short Cycles,” ISIT 2015, Hong Kong. (<a href="presentations/BatchCodeISIT2015.pdf">Slides</a>)</p>
+</li>
+<li><p>“On Adversarial Joint Source Channel Coding,” ISIT 2015, Hong Kong. (<a href="presentations/AdversarialJSCC_ISIT2015.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Locality and Availability in Distributed Storage,&rdquo; ISIT 2014, Honolulu, HI. (<a href="presentations/Availability_ISIT14.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Dynamic Control of Video Quality in Adaptive Video Streaming,&rdquo; ISIT 2014, Honolulu, HI. (<a href="presentations/AVC_ISIT14.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Update and Repair Efficient Codes for Distributed Storage,&rdquo; DIMACS Workshop on Algorithms for Green Data Storage. (<a href="presentations/DIMACS_update.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Optimal Locally Repairable Codes for Distributed Storage Systems,&rdquo; Department of ECE, University of Minnesota, MN. (<a href="presentations/LRC_DSS_UMN.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Optimal Locally Repairable Codes for Distributed Storage Systems,&rdquo; Mathematics Colloquium &amp; Informal Seminar, Bell Labs, NJ. (<a href="presentations/LRC_DSS.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Secure Locally Repairable Codes for Distributed Storage Systems,&rdquo; ISIT 2013, Istanbul, Turkey. (<a href="presentations/ISIT13_talk.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Update Efficient Codes for Distributed Storage,&rdquo; ISIT 2011, St. Petersburg, Russia. (<a href="presentations/ISIT11_talk.pdf">Slides</a>)</p>
+</li>
+<li><p>&ldquo;Collaborative Spectrum Sensing in the Presence of Byzantine Attacks in Cognitive Radio Networks,&rdquo; COMNETS 2010, Bangalore, India. (<a href="presentations/COMSNETS_Presentation.pdf">Slides</a>)</p>
+</li>
+</ul>
+<h2>Contact</h2>
+<dl>
+<dt>Office:</dt>
+<dd><p>Computer Science Department <br />
+Gates-Hillman Complex 7225 <br /> 
+Carnegie Mellon University <br />
+5000 Forbes Avenue <br />
+Pittsburgh PA 15213 <br /></p></dd>
+<dt>E-mail:</dt>
+<dd><p>asrawat AT andrew DOT cmu DOT edu <br /></p></dd>
+</dl>
+<p><meta name="google-site-verification" content="MQyPNO29SDiSP-QF1z3KuK8sKx8S2HU20q6WLYngfrc" /></p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2015-09-11 12:58:48 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
