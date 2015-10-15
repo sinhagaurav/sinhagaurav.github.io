@@ -4,9 +4,10 @@
 <head>
 <title>Gaurav Sinha</title>
 </head>
-<table class="imgtable"><tr><td>
-<img src="profile.jpg" alt="" />&nbsp;</td>
-</tr></table>
+
+<div>
+        <img src="profile.jpg" width="50%" height="50%"/>
+        </div>
 
 
 <body>
