@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{index.html}
+
+== Preprints
+- *Multi-touch Attribution for complex B2B customer journeys using Temporal Convolutional Networks*\n
+Joint with Aniket Agrawal, Nikhil Sheoran and Sourav Suman\n
+/Submitted/
+
+- *Intervention Efficient Algorithm for Two-Stage Causal MDPs*\n
+Joint with Rahul Madhavan, Aurghya Maiti and Siddharth Barman\n
+/[https://arxiv.org/abs/2111.00886 ArXiv], Submitted/
+
+- *Causal Bandits on General Graphs*\n
+Joint with Aurghya Maiti and  Vineet Nair\n
+/[https://arxiv.org/abs/2107.02772 ArXiv], Submitted/
+
+== Publications
+- *Almost Optimal Universal Lower Bound for Learning Causal DAGs with Atomic Interventions*\n
+Joint with Vibhor Porwal and Piyush Srivastava\n
+AISTATS 2022 (Oral)\n
+/[https://arxiv.org/abs/2111.05070 ArXiv]/
+
+- [https://drops.dagstuhl.de/opus/volltexte/2022/15714/, *Efficient reconstruction of depth three circuits with top fan-in two*]\n
+ITCS 2022\n
+/[https://arxiv.org/abs/2103.07445 ArXiv], [https://arxiv.org/abs/2111.05070 ECCC]/
+
+- [https://proceedings.mlr.press/v161/kumar21a.html *Disentangling Mixtures of Unknown Causal Interventions*]\n
+Joint with Abhinav Kumar\n
+UAI 2021\n
+
+- [http://proceedings.mlr.press/v130/nair21a.html *Budgeted and Non-Budgeted Causal Bandits*]\n
+Joint with Vineet Nair and  Vishakha Patil\n
+AISTATS 2021\n
+/[https://arxiv.org/abs/2012.07058 ArXiv]/
+
+- *Dis-entangling Mixture of Interventions on a Causal Bayesian Network Using Aggregate Observations*\n
+Joint with Ayush Chauhan, Aurghya Maiti, Naman Poddar and Pulkit Goel\n
+StarAI 2020, Ninth International Workshop on Statistical Relational AI, AAAI 2020\n
+/[https://arxiv.org/abs/1912.00163 ArXiv]/
+
+- *SparTun : Sparse Grid Tuning in Computational Advertising*\n
+Ampere 2018, Bing Ads, Microsoft
+
+- [https://thesis.library.caltech.edu/9861/ *Blackbox Reconstruction of Depth Three Circuits with Top Fan-in Two*]\n
+Ph.D. Thesis, California Institute of Technology\n
+
+- [https://drops.dagstuhl.de/opus/volltexte/2016/5854/ *Reconstruction of Real depth-3 Circuits with top fan-in 2*]\n
+CCC 2016\n
+/[https://arxiv.org/abs/1512.01256 ArXiv] [https://eccc.weizmann.ac.il/report/2015/150/ ECCC]/
+
+- [https://link.springer.com/article/10.1007%2Fs11075-012-9624-4 *Multiple point evaluation on combined tensor product supports*]\n
+Joint with Ralf Hiptmair and Gisela Philips\n
+Numerical Algorithms 2012 (2), 317-337\n
+/[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/60885/11075_2012_Article_9624.pdf;jsessionid=80A864A7A2DC747622DF5D1C268916B7?sequence=2 ETH Zurich Research Collection]/
+
+- [https://www.usenix.org/legacy/event/webapps10/tech/full_papers/Burtscher.pdf *JSZap: Compressing JavaScript Code*]\n
+Joint with Martin Burtscher, Benjamin Livshits and Benjamin Zorn\n
+USENIX WebApps 2010\n
+/[https://www.doc.ic.ac.uk/~livshits/papers/tr/jszap_tr.pdf Microsoft Technical Report]/

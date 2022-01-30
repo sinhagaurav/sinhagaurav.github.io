@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{index.html}
+= Gaurav Sinha
+	
+== About Me
+I am a Researcher at Adobe Research India in Bangalore, working in the areas of Causal Inference and Machine Learning. Previously, I was a Data and Applied Scientist in the Ranking Allocation and Pricing Team in Bing Ads, Sunnyvale, CA. I received my Ph.D. in Mathematics from the California Institute of Technology, Pasadena, CA in 2016, where I was advised by Prof. Eric Rains. Prior to that, I received an Integrated Master's in Mathematics and Scientific Computing at the Indian Institute of Technology (IIT) Kanpur in 2011.
+
+== Research Interests
+- Causal Inference and Discovery
+- Machine Learning
+- Reinforcement Learning
+- Theoretical Computer Science
+
+== Publications
+. "Almost Optimal Universal Lower Bound for Learning Causal DAGs with Atomic Interventions (Joint with V. Porwal, P. Srivastava)", Accepted as an oral paper at the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).
+. "Intervention Efficient Algorithm for Two-Stage Causal MDPs (Joint with R. Madhavan, A. Maiti and S. Barman)", Submitted.
+. "Causal Bandits on General Graphs (Joint with A. Maiti, V. Nair)", Submitted.
+. "Multi-touch Attribution for complex B2B customer journeys using Temporal Convolutional Networks (Joint with A. Agrawal, N. Sheoran, S. Suman)", Submitted.
+. "Efficient reconstruction of depth three circuits with top fan-in two", Accepted for publication at the 13th Innovations in Theoretical Computer Science (ITCS 2022) conference.
+. "Disentangling Mixtures of Unknown Causal Interventions (Joint with A. Kumar)", Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence (UAI 2021), PMLR 161:2093-2102.
+. "Budgeted and Non-Budgeted Causal Bandits (Joint with V. Nair, V. Patil)", Proceedings of The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021), PMLR 130:2017-2025.
+. "Dis-entangling Mixture of Interventions on a Causal Bayesian Network Using Aggregate Observations (Joint with A. Chauhan, A. Maiti, N. Poddar, P. Goel)", StarAI 2020, Ninth International Workshop on Statistical Relational AI, AAAI 2020.
+. "SparTun : Sparse Grid Tuning in Computational Advertising", Ampere, Bing Ads, 2018.
+. "Reconstruction of Real depth-3 Circuits with top fan-in 2", 31st Conference on Computational Complexity (CCC), 2016, Tokyo, Japan.
+. "Blackbox Reconstruction of Depth Three Circuits with Top Fan-in Two", Dissertation (Ph.D.), California Institute of Technology. doi:10.7907/Z92N507D.
+. "Multiple point evaluation on combined tensor product supports", (with R. Hiptmair and G. Widmer) Numerical Algorithms, 2012 (2), 317-337.
+. "Multiple point evaluation on combined tensor product supports", (with R. Hiptmair and G. Widmer) SAM Report, ETH Zurich.
+. "JSZap: Compressing JavaScript Code", (with M. Burtscher, B. Livshits and B. Zorn) USENIX Conference on Web Application Development (WebApps) , June 2010.
+== Patents
+
+
+~~~
+Save the file as +index.jemdoc+, say, and simply call +jemdoc index+ (after [download.html downloading jemdoc], of course).
+~~~
+
+== Next bit, next heading level two
+=== Getting into level three now
+
+Why not use a list
+- to explain the way you do lists?
+- to demonstrate how a line\n break might work?
+
+Or perhaps a
+. Multilevel
+  .. Numbered list
+  .. Is more
+. Useful?
+
+: {Definition} lists, especially when there are many definitions
+: {Can be useful} for explaining things
+
+
+== Finally, a few more blocks
+This `section' features "smart quotes".
+
+~~~
+{Simple block}
+This is a simple text block, with a title. Notice how the previous line has only one set of braces (\{\}).
+~~~
+
+	
+~~~
+{Interactive Python listing}{pyint}
+>>> print 'Interactive Python code.'
+'Interactive Python code.'
+~~~
+
+	
+~~~
+{}{}
+Plain code block with no title.
+~~~
+
+	
+You might need 2--3 different-sized dashes---they can be useful. Now we're done!
