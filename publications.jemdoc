@@ -1,12 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}
 
-== Preprints
+== Publications
+
 - *Efficient Convex Exploration for Minimizing Simple Regret in Layered Causal MDPs*\n
 Joint with Rahul Madhavan, Aurghya Maiti and [https://www.csa.iisc.ac.in/~barman/ Siddharth Barman]\n
 /[https://arxiv.org/abs/2111.00886 ArXiv], Submitted/
 
+- *Learning good interventions in causal graphs via covering*\n
+Joint with Ayush Sawarni, Rahul Madhavan and Siddharth Barman\n
+UAI 2023, /[https://proceedings.mlr.press/v216/sawarni23a.html PMLR]/
 
-== Publications
+- *Combinatorial categorized bandits with expert rankings*\n
+Joint with Sayak Ray Chowdhury, Nagarajan Natarajan and Amit Sharma\n
+UAI 2023, /[https://proceedings.mlr.press/v216/chowdhury23a.html PMLR]/
 
 - *A Causal Bandit Approach to Learning Good Atomic Interventions in Presence of Unobserved Confounders*\n
 Joint with Aurghya Maiti and  [https://sites.google.com/view/vineet-nair Vineet Nair]\n
