@@ -2,41 +2,89 @@
 
 == Publications
 
-- *Efficient Convex Exploration for Minimizing Simple Regret in Layered Causal MDPs*\n
-Joint with Rahul Madhavan, Aurghya Maiti and [https://www.csa.iisc.ac.in/~barman/ Siddharth Barman]\n
-/[https://arxiv.org/abs/2111.00886 ArXiv], Submitted/
+- *Contextual Slate GLM Bandits with Limited Adaptivity*\n
+Joint with Tanmay Goyal and Sukruta Prakash Midigeshi\n
+[https://proceedings.mlr.press/v306/goyal26a.html ICML 2026], /[https://arxiv.org/abs/2606.31449 ArXiv]/
+
+- *Improving Reachability on Reasoning Puzzles*\n
+Joint with Sukruta Prakash Midigeshi, Sai Soumya Nalli, Utkarsh Tiwari, Amit Deshpande, Nagarajan Natarajan, Vineeth N Balasubramanian and Amit Sharma\n
+[https://openreview.net/forum?id=yDJJuEpqtb ICLR 2026 Workshop on Logical Reasoning of Large Language Models]
+
+- *Scaling the Vocabulary of Non-autoregressive Models for Fast Generative Retrieval*\n
+Joint with Ravisri Valluri, Akash Kumar Mohankumar, Kushal Dave, Amit Singh, Jian Jiao and Manik Varma\n
+[https://dl.acm.org/doi/10.1145/3690624.3709330 KDD 2025], /[https://arxiv.org/abs/2406.06739 ArXiv]/
+
+- *Achieving Limited Adaptivity for Multinomial Logistic Bandits*\n
+Joint with Sukruta Prakash Midigeshi and Tanmay Goyal\n
+[https://rlj.org/papers/midigeshi2025achieving RLC 2025], /[https://arxiv.org/abs/2508.03072 ArXiv]/
+
+- *Efficient Algorithms for Logistic Contextual Slate Bandits with Bandit Feedback*\n
+Joint with Tanmay Goyal\n
+[https://proceedings.mlr.press/v286/goyal25a.html UAI 2025], /[https://arxiv.org/abs/2506.13163 ArXiv]/
+
+- *PlanRAG: Efficient Test-Time Planning for Retrieval Augmented Generation*\n
+Joint with Prakhar Verma, Sukruta Prakash Midigeshi, Arno Solin, Nagarajan Natarajan and Amit Sharma\n
+[https://openreview.net/forum?id=gi9aqlYdBk Workshop on Reasoning and Planning for Large Language Models 2025], /[https://arxiv.org/abs/2410.20753 ArXiv]/
+
+- *Generalized Linear Bandits with Limited Adaptivity*\n
+Joint with Ayush Sawarni, Nirjhar Das and Siddharth Barman\n
+[https://proceedings.neurips.cc/paper_files/paper/2024/hash/0faa0019b0a8fcab8e6476bc43078e2e-Abstract-Conference.html NeurIPS 2024], /[https://arxiv.org/abs/2404.06831 ArXiv]/
+
+- *Causal Contextual Bandits with Adaptive Context*\n
+Joint with Rahul Madhavan, Aurghya Maiti and Siddharth Barman\n
+[https://rlj.org/papers/madhavan2024causal RLC 2024], /[https://arxiv.org/abs/2405.18626 ArXiv]/
+
+- *Linear Contextual Bandits with Hybrid Payoff: Revisited*\n
+Joint with Nirjhar Das\n
+[https://link.springer.com/chapter/10.1007/978-3-031-70365-2_26 ECML PKDD 2024]
+
+- *Counterfactual Explanations for Visual Recommender Systems*\n
+Joint with Neham Jain and Vibhhu Sharma\n
+[https://dl.acm.org/doi/10.1145/3589335.3651484 The Web Conference 2024 Companion]
+
+- *Interpretable Model Drift Detection*\n
+Joint with Pranoy Panda, Sai Srinivas Kancheti and Vineeth N Balasubramanian\n
+[https://dl.acm.org/doi/10.1145/3632410.3632434 CODS-COMAD 2024]
+
+- *GAR-meets-RAG Paradigm for Zero-Shot Information Retrieval*\n
+Joint with Daman Arora, Anush Kini, Sayak Ray Chowdhury, Nagarajan Natarajan and Amit Sharma\n
+2023, /[https://arxiv.org/abs/2310.20158 ArXiv]/
+
+- *Feature-Interpretable Real Concept Drift Detection*\n
+Joint with Pranoy Panda and Vineeth N Balasubramanian\n
+[https://openreview.net/forum?id=pA2uDAvTpp ICLR 2023 Workshop on Pitfalls of Limited Data and Computation for Trustworthy ML]
 
 - *Learning good interventions in causal graphs via covering*\n
 Joint with Ayush Sawarni, Rahul Madhavan and Siddharth Barman\n
-UAI 2023, /[https://proceedings.mlr.press/v216/sawarni23a.html PMLR]/
+[https://proceedings.mlr.press/v216/sawarni23a.html UAI 2023]
 
 - *Combinatorial categorized bandits with expert rankings*\n
 Joint with Sayak Ray Chowdhury, Nagarajan Natarajan and Amit Sharma\n
-UAI 2023, /[https://proceedings.mlr.press/v216/chowdhury23a.html PMLR]/
+[https://proceedings.mlr.press/v216/chowdhury23a.html UAI 2023]
 
 - *A Causal Bandit Approach to Learning Good Atomic Interventions in Presence of Unobserved Confounders*\n
-Joint with Aurghya Maiti and  [https://sites.google.com/view/vineet-nair Vineet Nair]\n
-UAI 2022, /[https://arxiv.org/abs/2107.02772 ArXiv]/\n
+Joint with Aurghya Maiti and  Vineet Nair\n
+[https://proceedings.mlr.press/v180/maiti22a.html UAI 2022], /[https://arxiv.org/abs/2107.02772 ArXiv]/\n
 
-- [https://www2022.thewebconf.org/PaperFiles/125.pdf *Multi-touch Attribution for complex B2B customer journeys using Temporal Convolutional Networks*]\n
+- *Multi-touch Attribution for complex B2B customer journeys using Temporal Convolutional Networks*\n
 Joint with Aniket Agrawal, Nikhil Sheoran and Sourav Suman\n
-TempWeb 2022, 12th Temporal Web Analytics Workshop, The Web Conference 2022\n
+[https://dl.acm.org/doi/10.1145/3487553.3524670 TempWeb 2022], 12th Temporal Web Analytics Workshop, The Web Conference 2022\n
 
 
 - *Almost Optimal Universal Lower Bound for Learning Causal DAGs with Atomic Interventions*\n
-Joint with Vibhor Porwal and [https://www.tifr.res.in/~piyush.srivastava/ Piyush Srivastava]\n
-AISTATS 2022 (Oral), /[https://arxiv.org/abs/2111.05070 ArXiv]/\n
+Joint with Vibhor Porwal and Piyush Srivastava\n
+[https://proceedings.mlr.press/v151/porwal22a.html AISTATS 2022] (Oral), /[https://arxiv.org/abs/2111.05070 ArXiv]/\n
 
-- [https://drops.dagstuhl.de/opus/volltexte/2022/15714/, *Efficient reconstruction of depth three circuits with top fan-in two*]\n
-ITCS 2022, /[https://arxiv.org/abs/2103.07445 ArXiv], [https://arxiv.org/abs/2111.05070 ECCC]/\n
+- *Efficient reconstruction of depth three circuits with top fan-in two*\n
+[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2022.118 ITCS 2022], /[https://arxiv.org/abs/2103.07445 ArXiv], [https://arxiv.org/abs/2111.05070 ECCC]/\n
 
-- [https://proceedings.mlr.press/v161/kumar21a.html *Disentangling Mixtures of Unknown Causal Interventions*]\n
+- *Disentangling Mixtures of Unknown Causal Interventions*\n
 Joint with Abhinav Kumar\n
-UAI 2021 (Oral)\n
+[https://proceedings.mlr.press/v161/kumar21a.html UAI 2021] (Oral)\n
 
-- [http://proceedings.mlr.press/v130/nair21a.html *Budgeted and Non-Budgeted Causal Bandits*]\n
-Joint with [https://sites.google.com/view/vineet-nair Vineet Nair] and  [https://sites.google.com/view/vishakha-patil/home Vishakha Patil]\n
-AISTATS 2021, /[https://arxiv.org/abs/2012.07058 ArXiv]/\n
+- *Budgeted and Non-Budgeted Causal Bandits*\n
+Joint with Vineet Nair and  Vishakha Patil\n
+[https://proceedings.mlr.press/v130/nair21a.html AISTATS 2021], /[https://arxiv.org/abs/2012.07058 ArXiv]/\n
 
 - *Dis-entangling Mixture of Interventions on a Causal Bayesian Network Using Aggregate Observations*\n
 Joint with Ayush Chauhan, Aurghya Maiti, Naman Poddar and Pulkit Goel\n
@@ -45,16 +93,16 @@ StarAI 2020, Ninth International Workshop on Statistical Relational AI, AAAI 202
 - *SparTun : Sparse Grid Tuning in Computational Advertising*\n
 Ampere 2018, Bing Ads, Microsoft
 
-- [https://thesis.library.caltech.edu/9861/ *Blackbox Reconstruction of Depth Three Circuits with Top Fan-in Two*]\n
-Ph.D. Thesis, California Institute of Technology\n
+- *Blackbox Reconstruction of Depth Three Circuits with Top Fan-in Two*\n
+[https://thesis.library.caltech.edu/9861/ Ph.D. Thesis], California Institute of Technology\n
 
-- [https://drops.dagstuhl.de/opus/volltexte/2016/5854/ *Reconstruction of Real depth-3 Circuits with top fan-in 2*]\n
-CCC 2016, /[https://arxiv.org/abs/1512.01256 ArXiv] [https://eccc.weizmann.ac.il/report/2015/150/ ECCC]/ \n
+- *Reconstruction of Real depth-3 Circuits with top fan-in 2*\n
+[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CCC.2016.31 CCC 2016], /[https://arxiv.org/abs/1512.01256 ArXiv] [https://eccc.weizmann.ac.il/report/2015/150/ ECCC]/\n
 
-- [https://link.springer.com/article/10.1007%2Fs11075-012-9624-4 *Multiple point evaluation on combined tensor product supports*]\n
-Joint with [https://people.math.ethz.ch/~hiptmair/Homepage/index.html Ralf Hiptmair] and Gisela Philips\n
-Numerical Algorithms 2012 (2), 317-337, /[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/60885/11075_2012_Article_9624.pdf;jsessionid=80A864A7A2DC747622DF5D1C268916B7?sequence=2 ETH Zurich Research Collection]/\n
+- *Multiple point evaluation on combined tensor product supports*\n
+Joint with Ralf Hiptmair and Gisela Philips\n
+[https://link.springer.com/article/10.1007/s11075-012-9624-4 Numerical Algorithms 2012 (2)], 317-337, /[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/60885/11075_2012_Article_9624.pdf;jsessionid=80A864A7A2DC747622DF5D1C268916B7?sequence=2 ETH Zurich Research Collection]/\n
 
-- [https://www.usenix.org/legacy/event/webapps10/tech/full_papers/Burtscher.pdf *JSZap: Compressing JavaScript Code*]\n
-Joint with [https://userweb.cs.txstate.edu/~mb92/ Martin Burtscher], [https://www.doc.ic.ac.uk/~livshits/ Benjamin Livshits] and [https://www.microsoft.com/en-us/research/people/zorn/ Benjamin Zorn]\n
-USENIX WebApps 2010, /[https://www.doc.ic.ac.uk/~livshits/papers/tr/jszap_tr.pdf Microsoft Technical Report]/\n
+- *JSZap: Compressing JavaScript Code*\n
+Joint with Martin Burtscher, Benjamin Livshits and Benjamin Zorn\n
+[https://www.usenix.org/conference/webapps-10/jszap-compressing-javascript-code USENIX WebApps 2010], /[https://www.doc.ic.ac.uk/~livshits/papers/tr/jszap_tr.pdf Microsoft Technical Report]/\n

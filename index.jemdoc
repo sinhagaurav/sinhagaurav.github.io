@@ -2,59 +2,76 @@
 = Gaurav Sinha
 
 ~~~
-{}{img_left}{Gaurav.jpg}{alt text}{175px}{250px}{IMGLINKTARGET}
-[https://www.microsoft.com/en-us/research/ Microsoft Research]\n
-E-mail: sinhagaur88 AT gmail(dot)com
+{}{img_left}{Gaurav.jpg}{Gaurav Sinha}{175px}{225px}{IMGLINKTARGET}
+== About Me
+I am a Principal Research Manager at [https://www.microsoft.com/en-us/research/ Microsoft Research]. Prior to this, I was a Senior Research Scientist at Adobe Research (2018-2022) and an Applied Scientist at Microsoft Ads (2016-2018).
+I received my Ph.D. in Mathematics from the [https://www.caltech.edu/ California Institute of Technology] in 2016, where I was advised by Prof. [http://www.math.caltech.edu/people/rains.html Eric Rains], and my Integrated M.Sc. in Mathematics and Scientific Computing from [https://www.iitk.ac.in/ Indian Institute of Technology (IIT) Kanpur] in 2011.
+My Ph.D. research focused on theoretical problems in mathematics and computer science. Since moving to industry, I have focused on developing principled solutions to industrial research problems, combining theory and applied research to deliver practical impact.
+I can be reached via email at sinhagaur88 AT gmail(dot)com.
 ~~~
 
-== About Me
-I am a Principal Researcher at [https://www.microsoft.com/en-us/research/ Microsoft Research], working in the areas of Reinforcement Learning, Causal Inference and Theory. I received my Ph.D. in [https://pma.caltech.edu/research-and-academics/mathematics Mathematics] from the [https://www.caltech.edu/ California Institute of Technology] in 2016, where I was advised by Prof. [http://www.math.caltech.edu/people/rains.html Eric Rains] and my Integrated M.Sc. in [https://www.iitk.ac.in/math/ Mathematics and Scientific Computing] from  [https://www.iitk.ac.in/ Indian Institute of Technology (IIT) Kanpur] in 2011.
-
 == Research Interests
-- Reinforcement Learning
-- Causal Inference and Discovery
-- Information Retrieval
-- Theoretical Computer Science
+- Fine Tuning and Alignment of Language Models (LMs)
+- Reinforcement Learning (RL) Theory and Applications (currently focussing on RL fine-tuning of LMs)
+- Generative Information Retrieval
+- Causal Machine Learning
 
 == Selected Papers ([/publications.html View all])
 
+- *Contextual Slate GLM Bandits with Limited Adaptivity*\n
+Joint with Tanmay Goyal and Sukruta Prakash Midigeshi\n
+[https://proceedings.mlr.press/v306/goyal26a.html ICML 2026], /[https://arxiv.org/abs/2606.31449 ArXiv]/
+
+- *Improving Reachability on Reasoning Puzzles*\n
+Joint with Sukruta Prakash Midigeshi, Sai Soumya Nalli, Utkarsh Tiwari, Amit Deshpande, Nagarajan Natarajan, Vineeth N Balasubramanian and Amit Sharma\n
+[https://openreview.net/forum?id=yDJJuEpqtb ICLR 2026 Workshop on Logical Reasoning of Large Language Models]
+
+- *Scaling the Vocabulary of Non-autoregressive Models for Fast Generative Retrieval*\n
+Joint with Ravisri Valluri, Akash Kumar Mohankumar, Kushal Dave, Amit Singh, Jian Jiao and Manik Varma\n
+[https://dl.acm.org/doi/10.1145/3690624.3709330 KDD 2025], /[https://arxiv.org/abs/2406.06739 ArXiv]/
+
+- *Achieving Limited Adaptivity for Multinomial Logistic Bandits*\n
+Joint with Sukruta Prakash Midigeshi and Tanmay Goyal\n
+[https://rlj.org/papers/midigeshi2025achieving RLC 2025], /[https://arxiv.org/abs/2508.03072 ArXiv]/
+
+- *Efficient Algorithms for Logistic Contextual Slate Bandits with Bandit Feedback*\n
+Joint with Tanmay Goyal\n
+[https://proceedings.mlr.press/v286/goyal25a.html UAI 2025], /[https://arxiv.org/abs/2506.13163 ArXiv]/
+
+- *PlanRAG: Efficient Test-Time Planning for Retrieval Augmented Generation*\n
+Joint with Prakhar Verma, Sukruta Prakash Midigeshi, Arno Solin, Nagarajan Natarajan and Amit Sharma\n
+[https://openreview.net/forum?id=gi9aqlYdBk Workshop on Reasoning and Planning for Large Language Models 2025], /[https://arxiv.org/abs/2410.20753 ArXiv]/
+
+- *Generalized Linear Bandits with Limited Adaptivity*\n
+Joint with Ayush Sawarni, Nirjhar Das and Siddharth Barman\n
+[https://proceedings.neurips.cc/paper_files/paper/2024/hash/0faa0019b0a8fcab8e6476bc43078e2e-Abstract-Conference.html NeurIPS 2024], /[https://arxiv.org/abs/2404.06831 ArXiv]/
+
 - *Learning good interventions in causal graphs via covering*\n
 Joint with Ayush Sawarni, Rahul Madhavan and Siddharth Barman\n
-UAI 2023, /[https://proceedings.mlr.press/v216/sawarni23a.html PMLR]/
+[https://proceedings.mlr.press/v216/sawarni23a.html UAI 2023]
 
 - *Combinatorial categorized bandits with expert rankings*\n
 Joint with Sayak Ray Chowdhury, Nagarajan Natarajan and Amit Sharma\n
-UAI 2023, /[https://proceedings.mlr.press/v216/chowdhury23a.html PMLR]/
-
-- *Efficient Convex Exploration for Minimizing Simple Regret in Layered Causal MDPs*\n
-Joint with Rahul Madhavan, Aurghya Maiti and Siddharth Barman\n
-/[https://arxiv.org/abs/2111.00886 ArXiv], Submitted/
+[https://proceedings.mlr.press/v216/chowdhury23a.html UAI 2023]
 
 - *A Causal Bandit Approach to Learning Good Atomic Interventions in Presence of Unobserved Confounders*\n
 Joint with Aurghya Maiti and Vineet Nair\n
-UAI 2022, /[https://arxiv.org/abs/2107.02772 ArXiv]/\n
+[https://proceedings.mlr.press/v180/maiti22a.html UAI 2022], /[https://arxiv.org/abs/2107.02772 ArXiv]/\n
 
 - *Almost Optimal Universal Lower Bound for Learning Causal DAGs with Atomic Interventions*\n
 Joint with Vibhor Porwal and Piyush Srivastava\n
-AISTATS 2022 (Oral), /[https://arxiv.org/abs/2111.05070 ArXiv]/\n
+[https://proceedings.mlr.press/v151/porwal22a.html AISTATS 2022] (Oral), /[https://arxiv.org/abs/2111.05070 ArXiv]/\n
 
-- [https://drops.dagstuhl.de/opus/volltexte/2022/15714/, *Efficient reconstruction of depth three circuits with top fan-in two*]\n
-ITCS 2022, /[https://arxiv.org/abs/2103.07445 ArXiv], [https://arxiv.org/abs/2111.05070 ECCC]/\n
+- *Efficient reconstruction of depth three circuits with top fan-in two*\n
+[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2022.118 ITCS 2022], /[https://arxiv.org/abs/2103.07445 ArXiv], [https://arxiv.org/abs/2111.05070 ECCC]/\n
 
-- [https://proceedings.mlr.press/v161/kumar21a.html *Disentangling Mixtures of Unknown Causal Interventions*]\n
+- *Disentangling Mixtures of Unknown Causal Interventions*\n
 Joint with Abhinav Kumar\n
-UAI 2021 (Oral)\n
+[https://proceedings.mlr.press/v161/kumar21a.html UAI 2021] (Oral)\n
 
-- [http://proceedings.mlr.press/v130/nair21a.html *Budgeted and Non-Budgeted Causal Bandits*]\n
+- *Budgeted and Non-Budgeted Causal Bandits*\n
 Joint with Vineet Nair and Vishakha Patil\n
-AISTATS 2021, /[https://arxiv.org/abs/2012.07058 ArXiv]/\n
+[https://proceedings.mlr.press/v130/nair21a.html AISTATS 2021], /[https://arxiv.org/abs/2012.07058 ArXiv]/\n
 
-- [https://drops.dagstuhl.de/opus/volltexte/2016/5854/ *Reconstruction of Real depth-3 Circuits with top fan-in 2*]\n
-CCC 2016, /[https://arxiv.org/abs/1512.01256 ArXiv], [https://eccc.weizmann.ac.il/report/2015/150/ ECCC]/\n
-
-
-== Professional Service
-
-- *Reviewer*: NeurIPS 2023, AISTATS 2023, KDD 2023, ICML 2022, AISTATS 2022, CODS-COMAD 2022, STOC 2021, AISTATS 2021\n
-- *PC Member*: CODS-COMAD 2022
-- *Online Chair*: CLeaR 2024
+- *Reconstruction of Real depth-3 Circuits with top fan-in 2*\n
+[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CCC.2016.31 CCC 2016], /[https://arxiv.org/abs/1512.01256 ArXiv], [https://eccc.weizmann.ac.il/report/2015/150/ ECCC]/\n
